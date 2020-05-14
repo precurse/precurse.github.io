@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Open Source Contributions
+### Ansible
+- Created the Ansible [syspatch module](https://docs.ansible.com/ansible/2.9/modules/syspatch_module.html)
+- Created the Ansible [sysupgrade module](https://github.com/ansible-collections/community.general/pull/341)
 
-You can use the [editor on GitHub](https://github.com/precurse/precurse.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Zeek
+- Created the Zeek [sniffpass module](https://github.com/cybera/zeek-sniffpass)
+- Created the Zeek [httpattacks module](https://github.com/precurse/zeek-httpattacks)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Volunteering
+- [YEGSEC](https://yegsec.ca) - Edmonton security meetup group
+    - One of the Admins
+- [YEGIX](https://yegix.ca) - Edmonton internet exchange
+    - Aggregate IX Graphs
+    - Secure routes with RPKI
 
-### Markdown
+## Security Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Disclosures
+#### Fortinet FortiSIEM:
+- Hardcoded SSH Key
+- Improper Certificate Validation
 
-```markdown
-Syntax highlighted code block
+#### Actiontec Modems:
+- Multiple Remote + Local Privilege Escalations, and Information Disclosure.
 
-# Header 1
-## Header 2
-### Header 3
+#### OpenConext-EngineBlock
+- Cross Site Scripting
 
-- Bulleted
-- List
+# Presentations
+- Detecting malicious activity with Zeek
+- Introduction to embedded device hacking
+- Advanced SSH Concepts
+- Removing Intel Management Engine
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/precurse/precurse.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Certifications
+- OSCP (Offensive Security Certified Professional)
