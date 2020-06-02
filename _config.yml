@@ -1,3 +1,12 @@
+url: "https://precurse.github.io"
 theme: jekyll-theme-midnight
 email: andrewklaus@gmail.com
 title: Andrew Klaus' Bio
+
+author:
+  name: Andrew Klaus
+
+url-pretty: "aklaus.ca"
+
+github:
+  is_project_page: false
