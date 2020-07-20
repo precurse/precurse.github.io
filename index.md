@@ -37,3 +37,4 @@
 
 # Certifications
 - OSCP (Offensive Security Certified Professional)
+- OSWE (Offensive Security Web Expert)
